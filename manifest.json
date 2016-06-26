@@ -24,4 +24,6 @@
   "icons": {
     "128": "icon128_128.png",
     "48": "icon48_48.png"
+  },
+  "author": "Florian Thomas"
 }
