@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "YouTube toggle",
-  "description": "Pause / play youtube via shortcut while you are in a different tab",
+  "description": "Pause / play youtube via shortcut from anywhere",
   "version": "1.0",
 
   "permissions": [
